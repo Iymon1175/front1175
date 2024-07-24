@@ -1,0 +1,60 @@
+h1{
+    color: red;
+    text-align: center;
+    color: rgb(10, 91, 91);
+     background-color: rgba(43, 194, 224, 0.356);
+     border: 2px solid red;
+     border-radius: 8px;
+   }
+   h2{
+
+       color: rgb(12, 151, 105);
+   }
+   h3{
+   color: rgb(10, 121, 84);
+   text-align: center;
+   background-color: yellow;
+   }
+   h4{
+       color: rgb(12, 151, 105);
+   }
+   iframe{
+       text-align: center;
+   }
+
+   * {
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+table, tr, th, td{
+border: 1px solid rgb(255, 255, 255);
+border-collapse: collapse;
+text-align: center;
+padding: 5px 15px;
+color: white;
+}
+table{
+border-collapse: collapse;
+text-align: center;
+}
+th{
+background-color: blue;
+text-align: center;
+}
+
+.one{
+background-color: green;  
+text-align: center;
+}
+
+td{
+background-color: red;
+text-align: center;
+}
+
+.two{
+background-color: black;
+text-align: center;
+}
